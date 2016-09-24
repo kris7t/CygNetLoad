@@ -1,0 +1,14 @@
+.vs
+*.user
+*.sdf
+bin/
+obj/
+ipch/
+x64/
+Debug/
+Release/
+*.exe
+*.dll
+*.o
+*.pdb
+*.aps
